@@ -1,3 +1,17 @@
+ --[[
+ --------------------------------------------------------------------
+ *  Universidad Politecnica de San Luis Potosí
+ *  Ingeniería en Tecnologías de Información
+ *
+ *  Materia: Teoría Computacional
+ *  Profesor: Juan Carlos González Ibarra
+ *  Nombre:    Manuel Alejandro Guerrero González
+ *  Matricula: 180276
+ *  
+ *  Escrito:       06/02/21
+ *  Ultima actualización:  06/02/21
+ *----------------------------------------------------------------------]]
+ 
 --Aqui declaramos las variables que pueden tomar cualquier tipo
 A={}
 B={}

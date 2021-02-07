@@ -13,8 +13,17 @@
 
 
 
-# -180276-conjuntos.lua-*-
-# -Manuel Alejandro Guerrero González-*-
+ <br>*  Universidad Politecnica de San Luis Potosí</br>
+ <br>*  Ingeniería en Tecnologías de Información</br>
+ <br>*</br>
+ <br>*  Materia: Teoría Computacional</br>
+ <br>*  Profesor: Juan Carlos González Ibarra</br>
+ <br>*  Nombre:    Manuel Alejandro Guerrero González</br>
+ <br>*  Matricula: 180276
+ <br>*  </br>
+ <br>*  Escrito:       06/02/21</br>
+ <br>*  Ultima actualización:  06/02/21</br>
+
 
 
 --Aqui declaramos las variables que pueden tomar cualquier tipo
