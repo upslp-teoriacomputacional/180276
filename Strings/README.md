@@ -27,6 +27,9 @@ fun main(args: Array<String>) {//Se genera una funcion main para ejecutar el pro
     //por eso usar el \\w* minuscula sirve para datos de [a-z,A-Z,0-9] y no aceptara otro dato fuera de estos ni un espacio
     val clave= "\\w*".toRegex()
 
+    //Esta seria otra forma de escribir lo de arriba
+    val clave2= "[A-Za-z0-9]+".toRegex()
+
     val texto1= clave.matches("Saludos compañeros")//En esta cadena dara falso debido a que tiene un espacio la cadena
     println(texto1)
     val texto2= clave.matches("180276UPSLP")//En esta cadena dara verdadero debido a que tiene caracteres dentro del parametro
